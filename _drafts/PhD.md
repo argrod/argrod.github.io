@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+layout: page
+title: Inferring head motion in odontocetes
+---
+
+<!-- <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8"
@@ -17,3 +22,6 @@
         </main>
     </body>
 </html>
+ -->
+
+
