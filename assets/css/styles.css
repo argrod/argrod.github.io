@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;1,300;1,500&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;1,300;1,500&display=swap');
 
 body {
     background-color: rgb(235, 244, 213);
@@ -9,16 +9,16 @@ body {
   }
   
   /* Designate main text sections */
-  p {
+  /* p {
     line-height: 1.4;
     margin-top: 25px;
     margin-left: 25px;
     margin-right: 25px;
     margin-bottom: 25px;
-  }
+  } */
 
   /* Create top navigation bar */
-  .navbar {
+  /* .navbar {
     overflow: hidden;
     background-color: #8b0d0d;
     font-family: 'Montserrat';
@@ -33,12 +33,12 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+  } */
 
-  /* Typical headers */
+  /* Typical headers
   h1 {
     /* color: navy; */
-    /* margin-left: 20px; */
+    /* margin-left: 20px; *//*
     font-family:'Montserrat';
     font-weight: 500;
     font-size: 80;
@@ -47,11 +47,11 @@ body {
     margin-left: 25px;
     margin-right: 25px;
     margin-bottom: 25px;
-  }
+  } */
 
-  h2 {
+  /* h2 {
     /* color: navy; */
-    /* margin-left: 20px; */
+    /* margin-left: 20px; *//*
     font-family:'Montserrat';
     font-weight: 300;
     font-size: medium;
@@ -59,10 +59,10 @@ body {
     margin-left: 25px;
     margin-right: 25px;
     margin-bottom: 25px;
-  }
+  } */
 
   /* Button options with hover mechanics */
-  .btn {
+  /* .btn {
     background-color: #8b0d0d;
     border: none;
     color: white;
@@ -80,11 +80,11 @@ body {
     width: 100%;
     padding: 60px 0;
     font-weight: 400;
-  }
+  } */
 
 
   /* Series of link formats */
-  a {
+  /* a {
     outline: none;
   }
   
@@ -109,4 +109,19 @@ body {
   a:active {
     background: #6900ff;
     color: #cdfeaa;
-  }
+  } */
+
+  /*center an image with a max width*/
+  /* img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+  } */
+
+  /* img.centeredSquare {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 200px;
+  } */

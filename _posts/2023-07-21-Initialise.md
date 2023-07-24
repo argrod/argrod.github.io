@@ -1,6 +1,6 @@
 ---
 layout: post
-author: redacted
+# author: Aran
 ---
 
 Bunch of text etc etc
