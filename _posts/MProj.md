@@ -11,4 +11,4 @@ In my Master's thesis, I explored the effects (if any) of different head morphol
 
 Head motion was calculated from onboard data loggers, specifically [D-TAGs](https://soundtags.wp.st-andrews.ac.uk/dtags/), which carry a two-hydrophone array. The short distance between the two hydrophones allows calculation (as shown below) of the angle of arrival of a sound, due to the difference in arrival times of that sound. As the study species are toothed whales, echolocating creatures, echolocation clicks proved the perfect source.
 
-![Angle of arrival diagram](../assets/images/wearableArray.png)
+![Angle of arrival diagram](/assets/images/wearableArray.png){:style="display: block;margin-left: auto;margin-right: auto;height:400px;"}

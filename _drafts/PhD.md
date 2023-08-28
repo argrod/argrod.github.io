@@ -1,27 +1,8 @@
 ---
 layout: page
-title: Inferring head motion in odontocetes
+title: Wind interactions with foraging decision-making in seabirds
 ---
 
-<!-- <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8"
-        <title>Streaked shearwater foraging in relation to wind conditions</title>
-        <link rel="stylesheet" type="text/css" href="../style.css" />
-    </head>
-    <body>
-        <main>
-            <h1>Biologging research</h1>
-                <h2 id="Biologging background">Biologging</h2>
-                    <p></p>
+## Seabird foraging detection
 
-                <h2 id="PhD">PhD</h2>
-                    <p>During my PhD, I examined acceleration, GPS, video, and gyroscopic records of streaked shearwaters nesting in Japan. The purpose of my research was to examine and extract trends of movement during foraging trips of shearwaters, specifically as related to local wind conditions.b </p>
-            <p></p>
-        </main>
-    </body>
-</html>
- -->
-
-
+Using on-board data loggers, I recorded acceleration recordgins of free-ranging seabirds with either video footage or GPS signals. I used that video footage to identify foraging behaviours and types, from which I extracted 
